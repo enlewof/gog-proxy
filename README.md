@@ -1,6 +1,6 @@
 # gog-proxy
 
-Proxy arround some GOG endpoints for extending API capabilities for better Linux support.
+Proxy around some GOG endpoints for extending API capabilities for better Linux support.
 
 ## The target
 
