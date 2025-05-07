@@ -10,7 +10,7 @@ We hope GOG will eventually provide that data themselves, untill then we are on 
 
 ## API
 
-Currently supported enpoint returns game config from `remote-config.gog.com` endpoint. If there is Linux data in games_data directory that will be extended
+Currently supported endpoint returns game config from `remote-config.gog.com` endpoint. If there is Linux data in games_data directory that will be extended
 
 ```
 GET /api/config/client_id
